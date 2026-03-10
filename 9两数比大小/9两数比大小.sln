@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9两数比大小", "9两数比大小\9两数比大小.vcxproj", "{D34DAF84-50B5-446F-BE60-8EC152D294AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Debug|x64.ActiveCfg = Debug|x64
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Debug|x64.Build.0 = Debug|x64
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Debug|x86.Build.0 = Debug|Win32
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Release|x64.ActiveCfg = Release|x64
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Release|x64.Build.0 = Release|x64
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Release|x86.ActiveCfg = Release|Win32
+		{D34DAF84-50B5-446F-BE60-8EC152D294AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029E071B-3BDE-496F-B12D-C5C7BF9E57F4}
+	EndGlobalSection
+EndGlobal
